@@ -1,2 +1,3 @@
 there are multiple admin group: 
-command to add group: groupadd <groupname>
+command to add group: groupadd <groupnamei>
+how we can check the groups in a server.
