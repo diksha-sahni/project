@@ -1,2 +1,4 @@
 NTP service in RHEL 9 is chronyd
-
+The config file is /etc/chrony.conf.
+how to set ntp client
+server <servername> iburst.
