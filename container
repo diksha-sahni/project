@@ -1,3 +1,5 @@
 To install container and files
 yum install -y container-tools
 to list conatiner images
+podman images
+
